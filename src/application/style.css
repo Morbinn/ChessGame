@@ -1,0 +1,6 @@
+.gridPane Line {
+	-fx-stroke: red;
+}
+.Col {
+	-fx-background-color: red;
+}
